@@ -30,7 +30,10 @@ class _MyHomePageState extends State<MyHomePage> {
                           width: 45,
                           height: 45,
                           color: Colors.blue[100],
-                          child: Icon(Icons.person, color: Colors.blue),
+                          child: Image.network(
+                            "https://images.unsplash.com/photo-1724225618356-4af4289f62d9",
+                            fit: BoxFit.cover,
+                          ),
                         ),
                         Icon(Icons.search, color: Colors.cyan, size: 30),
                       ],
