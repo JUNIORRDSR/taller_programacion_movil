@@ -3,7 +3,11 @@
 Taller sobre realizacion de diseño basico sin funcionalidad, solo guia visual de imagen de ejemplo
 
 
-![img.png](assets/images/img-replicar.png)
+## Comparativa Visual
+
+| Referencia (Diseño Solicitado) | Resultado (Implementación) |
+| :---: | :---: |
+| ![img.png](assets/images/img-replicar.png) | ![evidencia-resultado.png](assets/images/evidencia-resultado.png) |
 
 ## Requerimientos
 ------
@@ -58,5 +62,4 @@ La pantalla debe poder visualizarse correctamente en un dispositivo o emulador m
 
 Los elementos como botones, tarjetas o iconos ****no necesitan realizar ninguna acción****. La evaluación estará enfocada exclusivamente en la construcción de la ****interfaz gráfica (UI)****.
 
-## Resultado
-![evidencia-resultado.png](assets/images/evidencia-resultado.png)
+
