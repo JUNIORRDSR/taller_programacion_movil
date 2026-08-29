@@ -1,17 +1,60 @@
 # taller_programacion_movil
 
-A new Flutter project.
+Taller sobre realizacion de diseño basico sin funcionalidad, solo guia visual de imagen de ejemplo
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![img.png](assets/images/img-replicar.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Requerimientos
+------
+A partir de la imagen de referencia proporcionada, el estudiante deberá desarrollar una réplica visual de la interfaz móvil (UI) utilizando la tecnología de programación móvil trabajada en el curso.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+El objetivo es evaluar la capacidad para analizar una interfaz, identificar sus componentes visuales y reproducirla mediante código.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Elementos que debe replicar
+-----
+La interfaz deberá incluir visualmente:
+
+-   Avatar del usuario.
+-   Botón de búsqueda.
+-   Saludo al usuario.
+-   Título principal.
+-   Cuatro opciones de acceso:
+-   -   Nutrition
+-   Reminders
+-   Training
+-   Pet Friendly
+-   Sección ****Your pets****.
+-   Botón ****Add +****.
+-   Tres tarjetas de mascotas:
+-   -   Jake
+-   Waffle
+-   Shadow
+-   Sección ****Upcoming appointments****.
+-   Botón ****View all****.
+-   Tres tarjetas de citas.
+-   Iconos, imágenes, textos y elementos decorativos visibles en la referencia.
+
+## Requerimientos de UI
+------
+-   El estudiante deberá procurar la mayor fidelidad visual posible respecto a la imagen de referencia:
+-   Distribución de los elementos.
+-   Márgenes y espaciados.
+-   Tamaños.
+-   Colores.
+-   Tipografía.
+-   Bordes redondeados.
+-   Iconos.
+-   Imágenes.
+-   Alineación.
+-   Jerarquía visual.
+-   Proporciones de los componentes.
+
+La pantalla debe poder visualizarse correctamente en un dispositivo o emulador móvil.
+
+## Importante
+------
+****No se evaluará la funcionalidad de la aplicación.****
+
+Los elementos como botones, tarjetas o iconos ****no necesitan realizar ninguna acción****. La evaluación estará enfocada exclusivamente en la construcción de la ****interfaz gráfica (UI)****.
+
