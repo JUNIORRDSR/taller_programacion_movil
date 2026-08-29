@@ -58,3 +58,5 @@ La pantalla debe poder visualizarse correctamente en un dispositivo o emulador m
 
 Los elementos como botones, tarjetas o iconos ****no necesitan realizar ninguna acción****. La evaluación estará enfocada exclusivamente en la construcción de la ****interfaz gráfica (UI)****.
 
+## Resultado
+![evidencia-resultado.png](assets/images/evidencia-resultado.png)
